@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is Michael Clermont and I'm a Computer Science student, Ottawa, Canada.</p>
+<p>My name is Michael Clermont and I'm a student at Algonquin College, Ottawa, Canada.</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
